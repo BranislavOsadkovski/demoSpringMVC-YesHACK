@@ -1,3 +1,5 @@
 ## demoSpringMVC-YesHACK
 
-## Spring framework application
+## Spring framework
+
+Exploring vulnerabilites in Spring security
