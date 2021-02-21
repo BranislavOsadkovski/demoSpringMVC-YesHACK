@@ -22,5 +22,16 @@
 			</tr>
 		</c:forEach>
 	</table>
+	
+	<h5>Enlist into course </h5>
+	<form method="POST" action="/rest/enlist">
+		<label for="name">Name :</label>
+		<input type="text" id="name" name=/>
+		
+		<label for="name">Lastname :</label>
+		<input type="text" id="name" name=/>
+		 
+		 
+	</form>
 </body>
 </html>
